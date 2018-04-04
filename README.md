@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/skydive-project/skydive.png)](https://travis-ci.org/skydive-project/skydive)
+[![Build Status](https://ci.skydive.network/job/skydive-create-binaries/badge/icon)](https://ci.skydive.network/job/skydive-create-binaries/)
 
 # Skydive
 The Skydive binaries repository...
