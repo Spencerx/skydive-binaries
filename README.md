@@ -1,4 +1,4 @@
-[![Build Status](https://ci.skydive.network/job/skydive-create-binaries/badge/icon)](https://ci.skydive.network/job/skydive-create-binaries/)
+[![Build Status](http://ci-logs.skydive.network/skydive-create-binaries/badge)](http://ci-logs.skydive.network/skydive-create-binaries)
 
 # Skydive
 The Skydive binaries repository...
